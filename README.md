@@ -1,3 +1,17 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Benny%20Samuel&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h3 align="center">
+AI Engineer | Business Analyst | Fintech & Product Strategy
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/benny-samuel">LinkedIn</a> •
+<a href="mailto:bennysamuel2102@gmail.com">Email</a> •
+<a href="https://github.com/bennysamuel10">GitHub</a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Benny Samuel</h1>
 
 <p align="center">
