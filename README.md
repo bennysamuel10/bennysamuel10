@@ -91,6 +91,14 @@ My goal is to become a **Product Analyst / Product Expert in Fintech**, building
 - Image Processing
 - Automation Systems
 
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,pytorch,matlab,c,java,git,github,vscode"/>
+
+</p>
+
 ---
 
 ## 🔬 AI & Engineering Projects
