@@ -20,8 +20,8 @@ AI Engineer | Business Analyst | Fintech & Product Strategy
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://bennysamuel10.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://bennysamuel10.github.io">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </p>
