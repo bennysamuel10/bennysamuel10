@@ -79,6 +79,6 @@ https://github.com/bennysamuel10
 
 ## 📊 GitHub Stats
 
-![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennysamuel10&show_icons=true&theme=github_dark)
+![Benny's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bennysamuel10&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bennysamuel10&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bennysamuel10&layout=compact&theme=github_dark)
