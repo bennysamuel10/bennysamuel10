@@ -19,6 +19,27 @@ AI Engineer | Business Analyst | Fintech & Product Strategy
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/benny-samuel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bennysamuel2102@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bennysamuel10">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Benny Samuel</h1>
 
 <p align="center">
