@@ -8,6 +8,10 @@ AI Engineer | Business Analyst | Fintech & Product Strategy
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+Engineer;Business+Analyst;Fintech+Product+Enthusiast;Building+AI+Driven+Solutions&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bennysamuel10&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+</p>
+
 # 👋 Hi, I'm Benny Samuel
 
 🎯 Business Analyst | AI & Data Enthusiast | Fintech & Product Strategy
