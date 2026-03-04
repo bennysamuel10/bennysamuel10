@@ -31,11 +31,16 @@ My goal is to become a **Product Analyst / Product Expert in Fintech**, building
 - Competitive Analysis
 - Business Strategy
 
-### Technical Skills
-- Python
-- MATLAB
-- C Programming
-- Java (Basic)
+## 🛠️ Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-purple)
+![Business Analysis](https://img.shields.io/badge/Business-Analysis-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-yellow)
+![Generative AI](https://img.shields.io/badge/Generative-AI-black)
 
 ### AI & Data
 - Machine Learning
