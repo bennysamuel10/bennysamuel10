@@ -102,3 +102,10 @@ https://github.com/bennysamuel10
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bennysamuel10&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![Benny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bennysamuel10&theme=tokyo-night)
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/bennysamuel10/bennysamuel10/blob/output/github-contribution-grid-snake.svg)
