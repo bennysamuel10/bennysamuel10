@@ -74,3 +74,11 @@ https://www.linkedin.com/in/benny-samuel
 
 💻 GitHub  
 https://github.com/bennysamuel10
+
+---
+
+## 📊 GitHub Stats
+
+![Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennysamuel10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bennysamuel10&layout=compact&theme=tokyonight)
